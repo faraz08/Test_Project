@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41f1d5df-740e-4b7a-a90f-d3482929a0e3" name="3dsetup" url="http://3dsetup.app">
+        <fileTransfer host="3dsetup.app" port="21" password="dfd3df8bdfd3dfdedf98dfcedfe2dfdddfdddf8fdfd0dfe2df89dfdedfe2dff2dfd3dfe8df9bdf80df8c" username="dev2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
